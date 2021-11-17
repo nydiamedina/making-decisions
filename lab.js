@@ -89,7 +89,7 @@ if (temperature >= 80 && rain) {
 
 //CODE HERE
 
-for (i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   console.log('Hello');
 }
 
@@ -101,7 +101,7 @@ for (i = 0; i < 10; i++) {
 
 //CODE HERE
 
-for (i = 0; i < 10; i++) {
+for (let i = 0; i < 10; i++) {
   console.log(i + 1);
 }
 
@@ -113,7 +113,7 @@ for (i = 0; i < 10; i++) {
 
 //CODE HERE
 
-for (i = 10; i >= 0; i--) {
+for (let i = 10; i >= 0; i--) {
   console.log(i);
 }
 
@@ -170,7 +170,7 @@ let z = 5
 //CODE HERE
 
 while (z > 0) {
-  for (i = z; i > 0; i--) {
+  for (let i = z; i > 0; i--) {
     console.log(i);
   }
   z--;
