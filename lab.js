@@ -36,7 +36,7 @@ if (amysAge > brittanisAge) {
   console.log('Brittani is older.');
 }
 else {
-  console.log('Amy & Britanni have the same age.')
+  console.log('Amy & Britanni are the same age.')
 }
 
 
