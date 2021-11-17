@@ -29,6 +29,7 @@ var brittanisBirthYear = 1986
 */
 
 //CODE HERE
+
 if (amysAge > brittanisAge) {
   console.log('Amy is older.');
 } else if (amysAge < brittanisAge) {
@@ -46,6 +47,7 @@ else {
 */
 
 //CODE HERE
+
 if (amysBirthYear === brittanisBirthYear) {
   console.log('Amy & Brittani were born in the same year.');
 } else {
@@ -99,6 +101,9 @@ for (i = 0; i < 10; i++) {
 
 //CODE HERE
 
+for (i = 0; i < 10; i++) {
+  console.log(i + 1);
+}
 
 ////////// PROBLEM 7 //////////
 
@@ -107,6 +112,10 @@ for (i = 0; i < 10; i++) {
 */
 
 //CODE HERE
+
+for (i = 10; i >= 0; i--) {
+  console.log(i);
+}
 
 let score = 0
 let passingScore = 7
