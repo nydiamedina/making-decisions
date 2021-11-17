@@ -157,7 +157,8 @@ if (changeMyMind) {
 
 //CODE HERE
 
-console.log(!changeMyMind);
+changeMyMind = !changeMyMind;
+console.log(changeMyMind);
 
 ////////// ADVANCED PROBLEMS //////////
 
